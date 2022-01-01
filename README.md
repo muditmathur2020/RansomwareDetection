@@ -32,3 +32,8 @@ Its a classification problem (Supervised Machine Learning). The data was immbala
 * Matthews Correlation Coefficient (MCC): 0.985
 * AUC-ROC: 0.993
 
+
+**Install Libraries using requirements.txt**
+```
+pip install -r /path/to/requirements.txt
+```
