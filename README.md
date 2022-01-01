@@ -1,6 +1,6 @@
 # Ransomware Detection using Machine Learning
 
-![Ransomware](Photos/header.jpeg)
+![Ransomware](Photos/header.jpg)
 
 **Goal of this Project**
 Predict Ransomware based on file properties extracted from a tool. This model is a part of Full Antivirus + Malware Protection Software.
