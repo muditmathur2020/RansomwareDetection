@@ -7,15 +7,23 @@ Predict Ransomware based on file properties extracted from a tool. This model is
 Its a classification problem (Supervised Machine Learning). The data was immbalanced and needed to be transformed (Synthetic Samples: SMOTE-Tomek).
 
 
-**Highlights**\
+**Highlights**
 * Lazy Predict for AutoML
 * Lime for Local Explainations
 * WoE 
 
-**Model Performance on Test Dataset**\
 
-![Ransomware](Photos/confusion_matrix.png)
-Confusion Matrix 
+| ![Ransomware](Photos/lime.png) | 
+|:--:| 
+| *LIME Explainability for Local Interpretation* |
+
+
+**Model Performance on Test Dataset**
+
+| ![Ransomware](Photos/confusion_matrix.png) | 
+|:--:| 
+| *Confusion Matrix* |
+
 
 **Metrics**
 * F1 Score: 0.99
