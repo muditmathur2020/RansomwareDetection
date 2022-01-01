@@ -1,12 +1,28 @@
 # Ransomware Detection using Machine Learning
-### Research Project
 
-**Machine Learning Algorithms used are:**
-* Random Forest
-* Decision Tree
-* Logistic Regression
+![Ransomware](Photos/header.jpeg)
 
-**Success Rate is 99.34% !**
+**Goal of this Project**
+Predict Ransomware based on file properties extracted from a tool. This model is a part of Full Antivirus + Malware Protection Software.
+Its a classification problem (Supervised Machine Learning). The data was immbalanced and needed to be transformed (Synthetic Samples: SMOTE-Tomek).
+
+
+**Highlights**
+* Lazy Predict for AutoML
+* Lime for Local Explainations
+* WoE 
+
+**Model Performance on Test Dataset**
+
+![Ransomware](Photos/confusion_matrix.png)
+- Confusion Matrix 
+
+**Metrics**
+* F1 Score: 0.99
+* Matthews Correlation Coefficient (MCC): 0.985
+* AUC-ROC: 0.993
+
+
 
 **Additional Libraries Used:**
 * pefile
@@ -17,6 +33,6 @@
 * sklearn
 
 **Concepts Used:**
-* Multicollinearity
-* Ensemble Technique
-* Extra Tree Classifier
+* Multicollinearity (VIF)
+* Weight of Evidence (Feature Selection)
+
