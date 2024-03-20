@@ -1,6 +1,6 @@
 # Ransomware Detection using Machine Learning
 
-![Ransomware](Photos/header.jpg)
+![Ransomware](Photos/header_img_malware.png)
 
 
 **Goal of this Project**\
