@@ -1,16 +1,35 @@
-imblearn==0.0
-joblib==1.1.0
-lazypredict==0.2.9
-lime==0.2.0.1
-matplotlib==3.5.1
-mlxtend==0.19.0
-numpy==1.22.0
-pandas==1.3.5
-pefile==2021.9.3
-plot_metric==0.0.6
-plotly==5.5.0
-plotly_express==0.4.1
-scikit_learn==1.0.2
-seaborn==0.11.2
-session_info==1.0.0
-statsmodels==0.13.1
+aiobotocore @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_bba52b0nnu/croot/aiobotocore_1701291516116/work
+aiohttp @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b1m9c8aqie/croot/aiohttp_1707342290832/work
+aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
+altair @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a8x4081_4h/croot/altair_1687526044471/work
+anaconda-anon-usage @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ca68ugx5h9/croot/anaconda-anon-usage_1697038938120/work
+anaconda-catalogs @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e8tmw882qa/croot/anaconda-catalogs_1685727305051/work
+anaconda-client @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_4fl23009pr/croot/anaconda-client_1708640644054/work
+anaconda-cloud-auth @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f31ldbbwyn/croot/anaconda-cloud-auth_1697462723029/work
+anaconda-navigator @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f8upxzc9nj/croot/anaconda-navigator_1704813291659/work
+anaconda-project @ file:///Users/cbousseau/work/recipes/ci_py311/anaconda-project_1677964558977/work
+antlr-denter==1.3.1
+antlr4-python3-runtime==4.9.3
+anyio @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a17a7759g2/croot/anyio_1706220182417/work
+appdirs==1.4.4
+applaunchservices @ file:///Users/cbousseau/work/recipes/ci_py311/applaunchservices_1677955996025/work
+appnope @ file:///Users/cbousseau/work/recipes/ci_py311/appnope_1677917710869/work
+appscript @ file:///Users/cbousseau/work/recipes/ci_py311/appscript_1677956964648/work
+archspec @ file:///croot/archspec_1709217642129/work
+argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
+argon2-cffi-bindings @ file:///Users/cbousseau/work/recipes/ci_py311/argon2-cffi-bindings_1677915727169/work
+arrow @ file:///Users/cbousseau/work/recipes/ci_py311/arrow_1677931434012/work
+astroid @ file:///Users/cbousseau/work/recipes/ci_py311/astroid_1677926110661/work
+astropy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6bsitngidh/croot/astropy_1697468943967/work
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+async-lru @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_02efro5ps8/croot/async-lru_1699554529181/work
+atomicwrites==1.4.0
+attrs @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_224434dqzl/croot/attrs_1695717839274/work
+automata-lib==8.2.0
+autopep8 @ file:///opt/conda/conda-bld/autopep8_1650463822033/work
+numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a51i_mbs7m/croot/numpy_and_numpy_base_1708638620867/work/dist/numpy-1.26.4-cp311-cp311-macosx_11_0_arm64.whl#sha256=3d90dd3382cff7becb2384f73058a8e72b81c697e8bb77f1c69a82caca5b0c57
+numpydoc @ file:///Users/cbousseau/work/recipes/ci_py311/numpydoc_1677960919550/work
+pandas @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_82r7p4atwy/croot/pandas_1702318000240/work/dist/pandas-2.1.4-cp311-cp311-macosx_11_0_arm64.whl#sha256=63b9f12c34b6c55958dc1c6d032dafd28dc982c5e3a7b0f2802ba7920c95f437
+seaborn @ file:///Users/cbousseau/work/recipes/ci_py311/seaborn_1677961968762/work
